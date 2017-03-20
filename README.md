@@ -2,6 +2,8 @@
 
 # Jasmine 2.x Mock Local Storage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/jasmine-local-storage.svg)](https://greenkeeper.io/)
+
 This will add two functions `mockLocalStorage()` and `unmockLocalStorage()`
 
 # Install
