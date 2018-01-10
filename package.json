@@ -1,6 +1,6 @@
 {
   "name": "jasmine-local-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mock local storage in jasmine 2.x",
   "repository": "https://github.com/UziTech/jasmine-local-storage",
   "main": "src/jasmine-local-storage.js",
