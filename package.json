@@ -22,7 +22,7 @@
   "license": "MIT",
   "devDependencies": {
     "jasmine": "^2.5.3",
-    "test-tag-publish": "^1.0.0"
+    "test-tag-publish": "*"
   },
   "peerDependencies": {
     "jasmine": "2.x"
