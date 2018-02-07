@@ -21,10 +21,10 @@
   "author": "Tony Brix",
   "license": "MIT",
   "devDependencies": {
-    "jasmine": "^2.5.3",
+    "jasmine": "^3.0.0",
     "test-tag-publish": "*"
   },
   "peerDependencies": {
-    "jasmine": "2.x"
+    "jasmine": ">=2 <4"
   }
 }
