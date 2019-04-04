@@ -21,7 +21,7 @@
   "author": "Tony Brix",
   "license": "MIT",
   "devDependencies": {
-    "jasmine": "^3.3.1",
+    "jasmine": "^3.4.0",
     "test-tag-publish": "*"
   },
   "peerDependencies": {
