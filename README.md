@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/UziTech/jasmine-local-storage.png)](https://travis-ci.org/UziTech/jasmine-local-storage)
-[![Windows Build Status](https://ci.appveyor.com/api/projects/status/2t3ddjnn4qyk72ph?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-local-storage)
+[![Build Status](https://travis-ci.org/UziTech/jasmine-local-storage.svg?branch=master)](https://travis-ci.org/UziTech/jasmine-local-storage)
+[![Windows Build Status](https://ci.appveyor.com/api/projects/status/2t3ddjnn4qyk72ph/branch/master?svg=true)](https://ci.appveyor.com/project/UziTech/jasmine-local-storage)
 
 # Jasmine 2.x Mock Local Storage
 
