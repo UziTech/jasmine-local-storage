@@ -26,7 +26,7 @@
     "@semantic-release/release-notes-generator": "^11.0.2",
     "eslint": "^8.41.0",
     "jasmine": "^4.6.0",
-    "semantic-release": "^21.0.2"
+    "semantic-release": "^21.0.3"
   },
   "peerDependencies": {
     "jasmine": ">=2 <5"
